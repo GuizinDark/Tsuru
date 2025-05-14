@@ -47,7 +47,6 @@ Repita no verso.
 ![Passo 11](imagens/11.jpg)
 ![Passo 12](imagens/12.jpg)
 ![Passo 13](imagens/13.jpg)
-![Passo 14](imagens/14.jpg)
 ![Passo 15](imagens/15.png)
 ![Passo 16](imagens/16.png)
 ![Passo 17](imagens/17.png)
